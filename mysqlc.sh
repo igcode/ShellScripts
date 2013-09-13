@@ -9,7 +9,7 @@ user="xxx";
 pass="yyy";
 db="zzz";
 
-chain="/home/mysql/mysql/bin/mysql -u"$user" -p"$pass" -D "$db;
+chain="$HOME/mysql/bin/mysql -u"$user" -p"$pass" -D "$db;
 
 #function to update the case status
 
